@@ -3,3 +3,5 @@
 pip install -U tornado
 jupyter-nbextension install rise --py --sys-prefix
 jupyter-nbextension enable rise --py --sys-prefix
+jupyter nbextension enable --py --sys-prefix appmode
+jupyter serverextension enable --py --sys-prefix appmode
