@@ -5,7 +5,4 @@ of `jupyter_plotly_dash` and `django_plotly_dash`.
 
 The notebooks can be directly opened in your browser:
 
-[![example](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/delsim/samples/master)
-
-
-
+[![simple example](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/delsim/samples/master?filepath=notebooks%2Fjupyter_plotly_dash_example.ipynb)
